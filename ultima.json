@@ -1,8 +1,10 @@
 {
- "version": "1.23.1",
+ "version": "1.24.0",
  "notas": [
-  "Licencias nuevas, apagadas por ahora: el sistema de claves está listo pero apagado mientras se hacen pruebas. Abajo a la izquierda dice «Modo de pruebas · licencias apagadas». Cuando se prenda, cada clienta pone su clave una sola vez."
+  "Catálogo de efectos: una sección nueva con 148 efectos listos (títulos animados, subtítulos con estilo, transiciones, pantallas de chat y de apps, tarjetas de redes sociales, gráficas, mapas, confeti, destellos y más), cada uno con su vista previa. Guarda tus favoritos con el corazón.",
+  "Elige efectos por escena: en tu storyboard, debajo de cada escena, toca «Del catálogo de efectos». Claude lo arma con tus fuentes, tus colores y tus palabras, y lo pone en tu video como una capa más.",
+  "Los efectos son de HyperFrames (HeyGen, licencia Apache 2.0) y se instalan solos la primera vez que eliges uno."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.23.1.tgz",
- "sha256": "c8898661f4b1f2056d916f7a45be920b94058dc7e58a821e670bc35adfb723d3"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.24.0.tgz",
+ "sha256": "ed5a2a4e9e2591682f24a9e53327b76321487eaed4a4b492dbc8bb3bf0172977"
 }
