@@ -1,10 +1,8 @@
 {
- "version": "1.23.0",
+ "version": "1.23.1",
  "notas": [
-  "Reportes que le llegan a The Edit Lab: cuando Claude revisa tu reporte y ve que el problema es del programa (no de tu compu), primero se asegura de que tengas la versión más nueva. Si sigue pasando, en la campanita te aparece «Enviar por correo» con el correo ya escrito.",
-  "Tu copia siempre es la original: The Edit Lab revisa solo que sus archivos no hayan cambiado y, si algo se modificó o se borró, vuelve a poner el original. Tus Reels, tu Brand Kit y tus instrucciones no se tocan.",
-  "Licencias canceladas: una licencia compartida o revendida se puede cancelar y deja de funcionar."
+  "Licencias nuevas, apagadas por ahora: el sistema de claves está listo pero apagado mientras se hacen pruebas. Abajo a la izquierda dice «Modo de pruebas · licencias apagadas». Cuando se prenda, cada clienta pone su clave una sola vez."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.23.0.tgz",
- "sha256": "16162e65ac15ec9dcb83563df125bd91a98a5c1cfc3be5ca56bee2e9d05c1f52"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.23.1.tgz",
+ "sha256": "c8898661f4b1f2056d916f7a45be920b94058dc7e58a821e670bc35adfb723d3"
 }
