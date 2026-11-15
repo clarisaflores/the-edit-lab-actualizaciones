@@ -1,8 +1,10 @@
 {
- "version": "1.24.1",
+ "version": "1.24.2",
  "notas": [
-  "Textos detrás de ti, con un corte limpio: el recorte de tu silueta ahora sigue la orilla real de tu cabello y tu cara, sin el halo borroso que se veía donde el texto se cruza con tu cabeza. También mejora la silueta que se usa para llevar tu video a CapCut."
+  "Tus errores se cortan mejor, como en el Engine: la última toma gana. Cuando vuelves a empezar una frase («yo ya no paso, yo ya no paso tres horas de, yo ya no paso tres horas editando»), se cortan los intentos y se queda solo el último. Lo mismo con frases repetidas, frases que se quedan a medias y la misma palabra dos veces. Tus repeticiones a propósito («no, no, no») se quedan.",
+  "Efectos en una palabra exacta: en tu storyboard, debajo de cada escena, toca una de tus palabras y elige un efecto del catálogo. Sale justo cuando dices esa palabra.",
+  "Escucha cada parte de tu video otra vez, por separado, para que la transcripción no se «trague» las repeticiones (era la razón por la que algunas se quedaban)."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.24.1.tgz",
- "sha256": "f122f97745cc111c365ec7dd605f9d45edbe0200c607d183aeef552b0c5fc429"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.24.2.tgz",
+ "sha256": "3c1c049c78a8a37c44e4aee3ae65bc85dbb60004c75fe32db07686fb2029a8b3"
 }
