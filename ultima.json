@@ -1,0 +1,10 @@
+{
+ "version": "1.22.0",
+ "notas": [
+  "Tu Edit Lab se actualiza solo: busca versiones nuevas en internet y, cuando Claude no está editando, las instala solo, con una copia de respaldo de la versión anterior. La página se pone al día sola y la campanita te cuenta qué cambió. Si prefieres no esperar, en la campanita está «Actualizar ahora».",
+  "Reportar un problema ahora también dice si hay una versión más nueva.",
+  "Noticias: la campanita también muestra las novedades que publique The Edit Lab."
+ ],
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.22.0.tgz",
+ "sha256": "5d94a2f0d6d6a77f529d5384ab165d38d453fd62f45e767479a96d5deb4b0097"
+}
