@@ -1,10 +1,10 @@
 {
- "version": "1.22.0",
+ "version": "1.23.0",
  "notas": [
-  "Tu Edit Lab se actualiza solo: busca versiones nuevas en internet y, cuando Claude no está editando, las instala solo, con una copia de respaldo de la versión anterior. La página se pone al día sola y la campanita te cuenta qué cambió. Si prefieres no esperar, en la campanita está «Actualizar ahora».",
-  "Reportar un problema ahora también dice si hay una versión más nueva.",
-  "Noticias: la campanita también muestra las novedades que publique The Edit Lab."
+  "Reportes que le llegan a The Edit Lab: cuando Claude revisa tu reporte y ve que el problema es del programa (no de tu compu), primero se asegura de que tengas la versión más nueva. Si sigue pasando, en la campanita te aparece «Enviar por correo» con el correo ya escrito.",
+  "Tu copia siempre es la original: The Edit Lab revisa solo que sus archivos no hayan cambiado y, si algo se modificó o se borró, vuelve a poner el original. Tus Reels, tu Brand Kit y tus instrucciones no se tocan.",
+  "Licencias canceladas: una licencia compartida o revendida se puede cancelar y deja de funcionar."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.22.0.tgz",
- "sha256": "5d94a2f0d6d6a77f529d5384ab165d38d453fd62f45e767479a96d5deb4b0097"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.23.0.tgz",
+ "sha256": "16162e65ac15ec9dcb83563df125bd91a98a5c1cfc3be5ca56bee2e9d05c1f52"
 }

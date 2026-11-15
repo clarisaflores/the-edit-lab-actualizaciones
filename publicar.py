@@ -17,6 +17,22 @@ shutil.copy(tgz, os.path.join(aqui, 'paquetes', nombre))
 sha = hashlib.sha256(open(tgz, 'rb').read()).hexdigest()
 json.dump({'version': ver, 'notas': notas, 'archivo': 'https://raw.githubusercontent.com/%s/main/paquetes/%s' % (REPO, nombre), 'sha256': sha},
           open(os.path.join(aqui, 'ultima.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+# manifiesto: la huella de cada archivo del programa, para que cada lab revise que sigue siendo el original
+import tarfile
+huellas = {}
+with tarfile.open(tgz, 'r:gz') as t:
+    for m_ in t.getmembers():
+        n = m_.name[2:] if m_.name.startswith('./') else m_.name
+        if not m_.isfile() or not n.startswith('.the-edit-lab/plugin/'):
+            continue
+        rel = n[len('.the-edit-lab/plugin/'):]
+        if '__pycache__' in rel.split('/') or 'node_modules' in rel.split('/') or rel.endswith('.pyc') or rel.endswith('.DS_Store'):
+            continue
+        huellas[rel] = hashlib.sha256(t.extractfile(m_).read()).hexdigest()
+os.makedirs(os.path.join(aqui, 'manifiestos'), exist_ok=True)
+json.dump({'version': ver, 'archivos': huellas}, open(os.path.join(aqui, 'manifiestos', ver + '.json'), 'w', encoding='utf-8'), indent=0)
+if not os.path.exists(os.path.join(aqui, 'canceladas.json')):
+    json.dump({'numeros': [], 'correos': []}, open(os.path.join(aqui, 'canceladas.json'), 'w', encoding='utf-8'), indent=1)
 if len(sys.argv) > 4:
     shutil.copy(sys.argv[4], os.path.join(aqui, 'noticias.json'))
 print('Listo para subir:', ver, sha)
