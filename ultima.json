@@ -1,11 +1,8 @@
 {
- "version": "1.26.0",
+ "version": "1.26.1",
  "notas": [
-  "Mi marca, nueva sección: contestas 12 pasos de preguntas sobre tu marca (colores, letras, títulos, subtítulos, ritmo, sonidos, lo que no quieres…) y Claude crea tu Brand Kit y tu Editing System. Las preguntas te muestran tus archivos de Brand Assets para que elijas, y si no sabes qué poner, tocas «No sé: usa la recomendada». Se guardan solos en tu carpeta como «Mi Brand Kit» y «Mi Editing System». Los revisas, los apruebas y tus Reels se editan con eso.",
-  "3 estilos listos para empezar: Editorial suave, Bold y energético, y Minimal limpio. Tocas uno y se llenan todas tus respuestas (colores, letras, títulos, subtítulos, ritmo, sonidos); después solo cambias lo que quieras. También hay 3 paletas de colores y las letras que trae el editor, con su muestra.",
-  "Antes de crear, un resumen: «Así se van a editar tus videos», en frases claras, para revisar que todo sea lo que quieres.",
-  "Varias marcas: si editas para clientes, agrega cada uno como marca de cliente. Cada marca tiene su carpeta, que se crea sola (Marcas › nombre, con las mismas subcarpetas que Brand Assets), su Brand Kit y su Editing System, y al editar un Reel eliges para qué marca es. Nunca se mezclan colores, letras ni recursos."
+  "Quitar una marca ahora te pregunta qué hacer con su carpeta: quitarla y borrar su carpeta (para que no ocupe espacio; en Mac se va a la Papelera) o quitarla y dejar su carpeta en tu compu. Tu marca propia y tu Brand Assets nunca se borran."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.0.tgz",
- "sha256": "fce998a2a9f21db5bcde297bf2d508e9ea2a44b370a186db8d19aac2515b49d5"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.1.tgz",
+ "sha256": "9fb7e65a44b58787edfbe893b1cb7115f5ce44b3d2c22942620d6b1fee043882"
 }
