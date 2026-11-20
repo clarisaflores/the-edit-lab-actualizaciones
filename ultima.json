@@ -1,8 +1,8 @@
 {
- "version": "1.26.6",
+ "version": "1.26.7",
  "notas": [
-  "Tu contenido y tu B-roll, en una sola carpeta: ahora todo tu material real va en 06 MY CONTENT & B-ROLL (capturas y resultados, lo que ya publicaste, y clips o fotos de apoyo). Claude mira cada archivo y lo usa como prueba o como B-roll según lo que dices. Si ya tenías la carpeta 08 B-ROLL, sigue funcionando y no se mueve nada."
+  "Estilos listos renovados: Editorial suave ahora usa un acento cherry wine, y Minimal limpio es todavía más suave: todo en Inter Regular, con un acento café medio y cajas en gris cálido."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.6.tgz",
- "sha256": "6ded1779316a6008c1b819aade25630c40678ec4e3ab94c154c4c342d84e37ec"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.7.tgz",
+ "sha256": "4d7646b3874f87563d3dfc37c732f9f1c9bc2da54ec6a5b0ab5fa1013b0f6ddf"
 }
