@@ -1,9 +1,8 @@
 {
- "version": "1.26.5",
+ "version": "1.26.6",
  "notas": [
-  "Tus colores se guardan solos en tu archivo: lo que agregas, cambias o quitas en Mis colores se escribe en tu archivo de 02 COLORS. Si tu archivo era de Word o RTF, ahora se llama «Mis colores.txt» y el anterior se guarda aparte (no se borra).",
-  "Tus carpetas de Brand Assets ya no se cambian: cada área usa siempre su carpeta (01 LOGO & FONTS… 09 MUSIC). Si una carpeta falta, se vuelve a crear sola, vacía. Nunca se borra ni se mueve nada."
+  "Tu contenido y tu B-roll, en una sola carpeta: ahora todo tu material real va en 06 MY CONTENT & B-ROLL (capturas y resultados, lo que ya publicaste, y clips o fotos de apoyo). Claude mira cada archivo y lo usa como prueba o como B-roll según lo que dices. Si ya tenías la carpeta 08 B-ROLL, sigue funcionando y no se mueve nada."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.5.tgz",
- "sha256": "231bef0231ee4fe2d3c9db253cef194ab4edb8e0290fe3beb6cc3fcfcd3bcfb1"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.6.tgz",
+ "sha256": "6ded1779316a6008c1b819aade25630c40678ec4e3ab94c154c4c342d84e37ec"
 }
