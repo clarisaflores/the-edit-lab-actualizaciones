@@ -1,8 +1,9 @@
 {
- "version": "1.26.1",
+ "version": "1.26.2",
  "notas": [
-  "Quitar una marca ahora te pregunta qué hacer con su carpeta: quitarla y borrar su carpeta (para que no ocupe espacio; en Mac se va a la Papelera) o quitarla y dejar su carpeta en tu compu. Tu marca propia y tu Brand Assets nunca se borran."
+  "Videos más ágiles, sin pausas: ahora se quitan todas las pausas (solo queda la respiración mínima para que no suene cortado), siempre hay texto en pantalla desde el primer segundo, algo cambia en pantalla al menos cada 4 segundos y los zooms van siempre rectos al centro de tu cara.",
+  "Más ordenado: los botones para instalar y abrir The Edit Lab ahora vienen en dos carpetas, Mac y Windows. Si ya tienes los de antes, siguen funcionando igual."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.1.tgz",
- "sha256": "9fb7e65a44b58787edfbe893b1cb7115f5ce44b3d2c22942620d6b1fee043882"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.2.tgz",
+ "sha256": "4c993b7d96363a3e837eafc67d0bbba2799a7f4b7d582351189ddc5d7f3d68d4"
 }
