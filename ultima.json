@@ -1,10 +1,13 @@
 {
- "version": "1.24.2",
+ "version": "1.25.0",
  "notas": [
-  "Tus errores se cortan mejor, como en el Engine: la última toma gana. Cuando vuelves a empezar una frase («yo ya no paso, yo ya no paso tres horas de, yo ya no paso tres horas editando»), se cortan los intentos y se queda solo el último. Lo mismo con frases repetidas, frases que se quedan a medias y la misma palabra dos veces. Tus repeticiones a propósito («no, no, no») se quedan.",
-  "Efectos en una palabra exacta: en tu storyboard, debajo de cada escena, toca una de tus palabras y elige un efecto del catálogo. Sale justo cuando dices esa palabra.",
-  "Escucha cada parte de tu video otra vez, por separado, para que la transcripción no se «trague» las repeticiones (era la razón por la que algunas se quedaban)."
+  "Menos formatos, más claros: ahora son cuatro: Hablando a cámara, Tutorial, Voiceover y Montaje con textos. Cada tarjeta te dice para qué es y cuándo elegirla. Lo que antes era Lista de consejos, Pantalla dividida y Mixto ahora va en Hablando a cámara; Vlog va en Voiceover, y Lifestyle en Montaje con textos. Tus Reels de antes siguen funcionando.",
+  "«Qué necesito» en cada formato: al elegir el formato de tu video, cada tarjeta tiene un botón que te dice qué subir, dónde ponerlo y consejos para grabarlo.",
+  "Plantillas de notas por formato: cada formato trae su plantilla (hook, tomas, ritmo, cierre…). En tu editor de cortes, en «Notas para la edición», toca «Usar mi plantilla» y llénala. Puedes cambiar cada plantilla a tu gusto desde «Qué necesito»: se guarda sola y la usas en tus próximos videos.",
+  "Carpeta «Mis efectos» desde el principio: al instalar se crea sola, junto a Brand Assets y Reels, para que pongas ahí tus stickers, animaciones y sonidos.",
+  "Plantilla de instrucciones nueva: «Usar la plantilla» en Mis instrucciones trae unas instrucciones generales para tu editor, listas para adaptar a tu estilo.",
+  "Tus colores en todo: las flechas, los tachados y los post-its toman los colores de tu estilo."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.24.2.tgz",
- "sha256": "3c1c049c78a8a37c44e4aee3ae65bc85dbb60004c75fe32db07686fb2029a8b3"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.25.0.tgz",
+ "sha256": "84aa82a87a9e7e34391e8b641296944026d1e08df1d294e5f18f99290652466f"
 }
