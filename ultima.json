@@ -1,13 +1,11 @@
 {
- "version": "1.25.0",
+ "version": "1.26.0",
  "notas": [
-  "Menos formatos, más claros: ahora son cuatro: Hablando a cámara, Tutorial, Voiceover y Montaje con textos. Cada tarjeta te dice para qué es y cuándo elegirla. Lo que antes era Lista de consejos, Pantalla dividida y Mixto ahora va en Hablando a cámara; Vlog va en Voiceover, y Lifestyle en Montaje con textos. Tus Reels de antes siguen funcionando.",
-  "«Qué necesito» en cada formato: al elegir el formato de tu video, cada tarjeta tiene un botón que te dice qué subir, dónde ponerlo y consejos para grabarlo.",
-  "Plantillas de notas por formato: cada formato trae su plantilla (hook, tomas, ritmo, cierre…). En tu editor de cortes, en «Notas para la edición», toca «Usar mi plantilla» y llénala. Puedes cambiar cada plantilla a tu gusto desde «Qué necesito»: se guarda sola y la usas en tus próximos videos.",
-  "Carpeta «Mis efectos» desde el principio: al instalar se crea sola, junto a Brand Assets y Reels, para que pongas ahí tus stickers, animaciones y sonidos.",
-  "Plantilla de instrucciones nueva: «Usar la plantilla» en Mis instrucciones trae unas instrucciones generales para tu editor, listas para adaptar a tu estilo.",
-  "Tus colores en todo: las flechas, los tachados y los post-its toman los colores de tu estilo."
+  "Mi marca, nueva sección: contestas 12 pasos de preguntas sobre tu marca (colores, letras, títulos, subtítulos, ritmo, sonidos, lo que no quieres…) y Claude crea tu Brand Kit y tu Editing System. Las preguntas te muestran tus archivos de Brand Assets para que elijas, y si no sabes qué poner, tocas «No sé: usa la recomendada». Se guardan solos en tu carpeta como «Mi Brand Kit» y «Mi Editing System». Los revisas, los apruebas y tus Reels se editan con eso.",
+  "3 estilos listos para empezar: Editorial suave, Bold y energético, y Minimal limpio. Tocas uno y se llenan todas tus respuestas (colores, letras, títulos, subtítulos, ritmo, sonidos); después solo cambias lo que quieras. También hay 3 paletas de colores y las letras que trae el editor, con su muestra.",
+  "Antes de crear, un resumen: «Así se van a editar tus videos», en frases claras, para revisar que todo sea lo que quieres.",
+  "Varias marcas: si editas para clientes, agrega cada uno como marca de cliente. Cada marca tiene su carpeta, que se crea sola (Marcas › nombre, con las mismas subcarpetas que Brand Assets), su Brand Kit y su Editing System, y al editar un Reel eliges para qué marca es. Nunca se mezclan colores, letras ni recursos."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.25.0.tgz",
- "sha256": "84aa82a87a9e7e34391e8b641296944026d1e08df1d294e5f18f99290652466f"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.0.tgz",
+ "sha256": "fce998a2a9f21db5bcde297bf2d508e9ea2a44b370a186db8d19aac2515b49d5"
 }
