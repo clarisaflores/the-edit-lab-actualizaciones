@@ -1,9 +1,9 @@
 {
- "version": "1.26.4",
+ "version": "1.26.5",
  "notas": [
-  "Tus Brand Assets se cargan solos: ya no eliges carpetas. Cada área muestra lo que hay en su carpeta de Brand Assets (01 LOGO & FONTS, 02 COLORS… 09 MUSIC). Cuando agregas algo nuevo, aparece solo en unos segundos (también puedes tocar Revisar mis carpetas), y Claude siempre usa lo último que hay en tus carpetas al editar.",
-  "Qué letra y qué color va en cada lugar ahora se elige solo en Mi marca, para no tener dos lugares distintos."
+  "Tus colores se guardan solos en tu archivo: lo que agregas, cambias o quitas en Mis colores se escribe en tu archivo de 02 COLORS. Si tu archivo era de Word o RTF, ahora se llama «Mis colores.txt» y el anterior se guarda aparte (no se borra).",
+  "Tus carpetas de Brand Assets ya no se cambian: cada área usa siempre su carpeta (01 LOGO & FONTS… 09 MUSIC). Si una carpeta falta, se vuelve a crear sola, vacía. Nunca se borra ni se mueve nada."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.4.tgz",
- "sha256": "0147b326587549c977f31ef0329fc45f39af98baba3563f0d33ca76acd2d7667"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.5.tgz",
+ "sha256": "231bef0231ee4fe2d3c9db253cef194ab4edb8e0290fe3beb6cc3fcfcd3bcfb1"
 }
