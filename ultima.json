@@ -1,10 +1,9 @@
 {
- "version": "1.26.3",
+ "version": "1.26.4",
  "notas": [
-  "Más claro dónde va cada cosa: «Mi Brand Kit» ahora se llama Mis Brand Assets, porque ahí conectas tus archivos (logo, fuentes, sonidos, referencias). Tu Brand Kit y tu Editing System, los documentos de tu estilo, se crean en Mi marca y tu editor los usa solo: no tienes que subirlos en ningún lado.",
-  "Ya no hay que subir documentos: quitamos «Archivos de contexto». Tu Brand Kit y tu Editing System se crean en Mi marca y tu editor los usa solo. Si ya habías subido documentos, siguen funcionando y los puedes quitar en Mis instrucciones.",
-  "Inicio con los pasos en orden: llena tus Brand Assets, crea tu marca, escribe tus instrucciones y edita tu primer Reel."
+  "Tus Brand Assets se cargan solos: ya no eliges carpetas. Cada área muestra lo que hay en su carpeta de Brand Assets (01 LOGO & FONTS, 02 COLORS… 09 MUSIC). Cuando agregas algo nuevo, aparece solo en unos segundos (también puedes tocar Revisar mis carpetas), y Claude siempre usa lo último que hay en tus carpetas al editar.",
+  "Qué letra y qué color va en cada lugar ahora se elige solo en Mi marca, para no tener dos lugares distintos."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.3.tgz",
- "sha256": "16e911853fdf5a3b207d37ec3c204433b3022417c472d65fad1131a0eb6ce7d9"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.4.tgz",
+ "sha256": "0147b326587549c977f31ef0329fc45f39af98baba3563f0d33ca76acd2d7667"
 }
