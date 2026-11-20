@@ -1,9 +1,10 @@
 {
- "version": "1.26.2",
+ "version": "1.26.3",
  "notas": [
-  "Videos más ágiles, sin pausas: ahora se quitan todas las pausas (solo queda la respiración mínima para que no suene cortado), siempre hay texto en pantalla desde el primer segundo, algo cambia en pantalla al menos cada 4 segundos y los zooms van siempre rectos al centro de tu cara.",
-  "Más ordenado: los botones para instalar y abrir The Edit Lab ahora vienen en dos carpetas, Mac y Windows. Si ya tienes los de antes, siguen funcionando igual."
+  "Más claro dónde va cada cosa: «Mi Brand Kit» ahora se llama Mis Brand Assets, porque ahí conectas tus archivos (logo, fuentes, sonidos, referencias). Tu Brand Kit y tu Editing System, los documentos de tu estilo, se crean en Mi marca y tu editor los usa solo: no tienes que subirlos en ningún lado.",
+  "Ya no hay que subir documentos: quitamos «Archivos de contexto». Tu Brand Kit y tu Editing System se crean en Mi marca y tu editor los usa solo. Si ya habías subido documentos, siguen funcionando y los puedes quitar en Mis instrucciones.",
+  "Inicio con los pasos en orden: llena tus Brand Assets, crea tu marca, escribe tus instrucciones y edita tu primer Reel."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.2.tgz",
- "sha256": "4c993b7d96363a3e837eafc67d0bbba2799a7f4b7d582351189ddc5d7f3d68d4"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.3.tgz",
+ "sha256": "16e911853fdf5a3b207d37ec3c204433b3022417c472d65fad1131a0eb6ce7d9"
 }
