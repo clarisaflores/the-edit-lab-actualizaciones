@@ -1,8 +1,11 @@
 {
- "version": "1.26.7",
+ "version": "1.26.8",
  "notas": [
-  "Estilos listos renovados: Editorial suave ahora usa un acento cherry wine, y Minimal limpio es todavía más suave: todo en Inter Regular, con un acento café medio y cajas en gris cálido."
+  "Escribir en Mi marca ya no se interrumpe: el cursor se queda donde estás aunque la página se actualice, y no pierdes lo que escribiste.",
+  "Siguiente te lleva al paso nuevo, no hasta arriba de la página.",
+  "Letras nuevas del editor: DM Sans, Montserrat y Playfair Display, además de Anton, Instrument Serif y Caveat. Los 3 estilos listos ahora usan estas letras.",
+  "Los materiales se agregan en el editor: cuando a tu Reel le falta B-roll, una captura o una foto, aparece con Agregar archivo (se guarda en la carpeta de tu Reel) o No lo tengo (el editor sigue sin él). No tienes que escribir nada en ningún otro lado."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.7.tgz",
- "sha256": "4d7646b3874f87563d3dfc37c732f9f1c9bc2da54ec6a5b0ab5fa1013b0f6ddf"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.8.tgz",
+ "sha256": "0c072f60fcb2998e39d80bb30da945a8b4a995f21f9fc2ac0d114009897ec765"
 }
