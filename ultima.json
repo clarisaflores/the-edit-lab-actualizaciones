@@ -1,12 +1,9 @@
 {
- "version": "1.26.9",
+ "version": "1.27.0",
  "notas": [
-  "Mejor calidad de imagen y de sonido en tus videos, sin que tengas que hacer nada.",
-  "Storyboard más claro, con fotos reales de tu Reel y comentarios por número.",
-  "Textos siempre bien acomodados dentro de la pantalla.",
-  "Nuevo: tu portada al terminar cada Reel.",
-  "Hooks y efectos más precisos, y reglas que se guardan por marca."
+  "Tus referencias se usan de verdad: se analizan en movimiento (ritmo, zooms y textos) y en la dirección creativa ves qué se tomó de cada una.",
+  "Nuevo: Referencia para este Reel. Sube un video que guíe solo ese Reel."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.9.tgz",
- "sha256": "cb76aeda1e9bf33dc1deeb1f548dee9a72f3df9241bc9c3df3e502a557d9c197"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.27.0.tgz",
+ "sha256": "7ede6d0108f2674fd03888268be00751944c4aa899fae56812e478ade73dca43"
 }
