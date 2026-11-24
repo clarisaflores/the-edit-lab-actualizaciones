@@ -1,11 +1,12 @@
 {
- "version": "1.26.8",
+ "version": "1.26.9",
  "notas": [
-  "Escribir en Mi marca ya no se interrumpe: el cursor se queda donde estás aunque la página se actualice, y no pierdes lo que escribiste.",
-  "Siguiente te lleva al paso nuevo, no hasta arriba de la página.",
-  "Letras nuevas del editor: DM Sans, Montserrat y Playfair Display, además de Anton, Instrument Serif y Caveat. Los 3 estilos listos ahora usan estas letras.",
-  "Los materiales se agregan en el editor: cuando a tu Reel le falta B-roll, una captura o una foto, aparece con Agregar archivo (se guarda en la carpeta de tu Reel) o No lo tengo (el editor sigue sin él). No tienes que escribir nada en ningún otro lado."
+  "Mejor calidad de imagen y de sonido en tus videos, sin que tengas que hacer nada.",
+  "Storyboard más claro, con fotos reales de tu Reel y comentarios por número.",
+  "Textos siempre bien acomodados dentro de la pantalla.",
+  "Nuevo: tu portada al terminar cada Reel.",
+  "Hooks y efectos más precisos, y reglas que se guardan por marca."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.8.tgz",
- "sha256": "0c072f60fcb2998e39d80bb30da945a8b4a995f21f9fc2ac0d114009897ec765"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.26.9.tgz",
+ "sha256": "cb76aeda1e9bf33dc1deeb1f548dee9a72f3df9241bc9c3df3e502a557d9c197"
 }
