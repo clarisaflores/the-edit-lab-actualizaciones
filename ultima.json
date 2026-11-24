@@ -1,9 +1,9 @@
 {
- "version": "1.27.0",
+ "version": "1.27.2",
  "notas": [
-  "Tus referencias se usan de verdad: se analizan en movimiento (ritmo, zooms y textos) y en la dirección creativa ves qué se tomó de cada una.",
-  "Nuevo: Referencia para este Reel. Sube un video que guíe solo ese Reel."
+  "Cortes más precisos: cuando repites una frase se queda solo tu última toma, y ya no quedan pausas.",
+  "Lo que ves en tus cortes es exactamente lo que se edita."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.27.0.tgz",
- "sha256": "7ede6d0108f2674fd03888268be00751944c4aa899fae56812e478ade73dca43"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.27.2.tgz",
+ "sha256": "2f2c2f0d2c5ee851bd52238ee3d9fe95c6f3c3154b6e8c953543d00fe4c75193"
 }
