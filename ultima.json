@@ -1,9 +1,8 @@
 {
- "version": "1.27.3",
+ "version": "1.27.4",
  "notas": [
-  "Tu editor de cortes se ve igual que el video final: los cortes se reproducen fluidos, sin saltos ni pausas entre clips.",
-  "Tus respuestas de «Mi marca» mandan: si elegiste textos sin cajas, ninguna apertura ni texto del Reel sale en caja."
+  "Detalles de diseño al crear una marca nueva."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.27.3.tgz",
- "sha256": "a465abd571ba7f8b5a8a397d2106fc957106da2672e64f62a4f6a642922a5c76"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.27.4.tgz",
+ "sha256": "c690d5f937d65693efaa1dfc7b8689b45758da89abea03395796d70a4b26702c"
 }
