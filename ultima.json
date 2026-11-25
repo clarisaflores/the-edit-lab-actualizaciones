@@ -1,9 +1,9 @@
 {
- "version": "1.27.2",
+ "version": "1.27.3",
  "notas": [
-  "Cortes más precisos: cuando repites una frase se queda solo tu última toma, y ya no quedan pausas.",
-  "Lo que ves en tus cortes es exactamente lo que se edita."
+  "Tu editor de cortes se ve igual que el video final: los cortes se reproducen fluidos, sin saltos ni pausas entre clips.",
+  "Tus respuestas de «Mi marca» mandan: si elegiste textos sin cajas, ninguna apertura ni texto del Reel sale en caja."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.27.2.tgz",
- "sha256": "2f2c2f0d2c5ee851bd52238ee3d9fe95c6f3c3154b6e8c953543d00fe4c75193"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.27.3.tgz",
+ "sha256": "a465abd571ba7f8b5a8a397d2106fc957106da2672e64f62a4f6a642922a5c76"
 }
