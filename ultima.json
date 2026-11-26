@@ -1,8 +1,10 @@
 {
- "version": "1.27.5",
+ "version": "1.28.0",
  "notas": [
-  "«Mi marca» ahora se llama «Mis marcas»: ahí registras tu marca y las de tus clientes."
+  "Diseño nuevo: más limpio y claro, con cajas suaves sin contornos, en el modo día y en el nocturno.",
+  "Textos más cortos y fáciles de entender.",
+  "Ahora todo habla de tus videos y de tu lab de edición."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.27.5.tgz",
- "sha256": "93c031ade40b41ec7fd83ad82628860126b371b0d3f4c9e14d47ad73dce88620"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.28.0.tgz",
+ "sha256": "47509afe8c0669e23491bbbebc2d31186daa8a6516d02ed61aefc340446d6c41"
 }
