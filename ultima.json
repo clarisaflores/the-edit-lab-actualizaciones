@@ -1,10 +1,8 @@
 {
- "version": "1.28.0",
+ "version": "1.28.1",
  "notas": [
-  "Diseño nuevo: más limpio y claro, con cajas suaves sin contornos, en el modo día y en el nocturno.",
-  "Textos más cortos y fáciles de entender.",
-  "Ahora todo habla de tus videos y de tu lab de edición."
+  "Diseño nuevo también en cada paso de tu video y en tu editor de cortes, con textos más cortos."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.28.0.tgz",
- "sha256": "47509afe8c0669e23491bbbebc2d31186daa8a6516d02ed61aefc340446d6c41"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.28.1.tgz",
+ "sha256": "ca7d5a4096655e9a36bb5fe601e6218d4e6aaf01852e6687f4dd145f80ad668f"
 }
