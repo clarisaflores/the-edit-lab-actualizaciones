@@ -1,8 +1,8 @@
 {
- "version": "1.27.4",
+ "version": "1.27.5",
  "notas": [
-  "Detalles de diseño al crear una marca nueva."
+  "«Mi marca» ahora se llama «Mis marcas»: ahí registras tu marca y las de tus clientes."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.27.4.tgz",
- "sha256": "c690d5f937d65693efaa1dfc7b8689b45758da89abea03395796d70a4b26702c"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.27.5.tgz",
+ "sha256": "93c031ade40b41ec7fd83ad82628860126b371b0d3f4c9e14d47ad73dce88620"
 }
