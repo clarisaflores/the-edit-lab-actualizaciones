@@ -1,8 +1,9 @@
 {
- "version": "1.28.1",
+ "version": "1.28.2",
  "notas": [
-  "Diseño nuevo también en cada paso de tu video y en tu editor de cortes, con textos más cortos."
+  "Más rápido y gasta menos uso de Claude: el storyboard, la revisión final y la exportación tardan menos, sin perder precisión.",
+  "Tus referencias se aplican en cada paso."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.28.1.tgz",
- "sha256": "ca7d5a4096655e9a36bb5fe601e6218d4e6aaf01852e6687f4dd145f80ad668f"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.28.2.tgz",
+ "sha256": "345715aa9db56788e21a0f9a157853763ca708b6a933f73be39784e25b16f52f"
 }
