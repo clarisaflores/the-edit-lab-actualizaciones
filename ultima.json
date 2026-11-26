@@ -1,9 +1,8 @@
 {
- "version": "1.28.3",
+ "version": "1.28.4",
  "notas": [
-  "Multiplica tu video: el botón dice cuántos videos se van a crear y cuánto tardan, y mientras se crean ves cuántos van listos y cuánto falta.",
-  "Tus videos listos ya se guardan solos en tu carpeta: en lugar de «Descargar» ahora hay «Ver en mi carpeta»."
+  "Corrección importante: tu voz ya nunca se silencia en partes del video."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.28.3.tgz",
- "sha256": "bfcfd69c3e0eaada0eb5007f9c4a0e4c01d94e0457f1384b3a2ce83e1b83351a"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.28.4.tgz",
+ "sha256": "71ff018c1590666bab4d68467604f00450cfc918443f81ba94f6a389c0dabd0d"
 }
