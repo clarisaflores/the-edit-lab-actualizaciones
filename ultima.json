@@ -1,10 +1,8 @@
 {
- "version": "1.29.0",
+ "version": "1.29.1",
  "notas": [
-  "Nuevo: Carruseles, una extensión que se activa con su propia clave. Arriba del menú eliges Videos o Carruseles.",
-  "Mis marcas ahora tiene tres partes: Identidad, Video y Carrusel.",
-  "Mejoras de estabilidad."
+  "Carruseles: slides con movimiento y videos dentro de tus slides."
  ],
- "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.29.0.tgz",
- "sha256": "89cb77ac885336cb3e64782cd952d0331ed7672106814f61c7ea3f26a9aea992"
+ "archivo": "https://raw.githubusercontent.com/clarisaflores/the-edit-lab-actualizaciones/main/paquetes/actualizacion-1.29.1.tgz",
+ "sha256": "d1c95444af57766d2ccb77e760ae77f4cbd41aa4e6f6411562a8624c34a8d033"
 }
